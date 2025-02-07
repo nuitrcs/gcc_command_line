@@ -42,3 +42,21 @@ pwd
 
 This is your **home directory** on Quest.
 
+To list the contents of this folder, use the command `ls`. This will print out the 
+files and folders in this directory. Generally, files will show up in white and 
+folders will show up in blue.
+
+Many commands can take additional arguments. Try the following:
+
+```bash
+ls -alh
+```
+
+If your home folder is relatively empty, the effect of these arguments may not be 
+clear but they stand for "all", "long form" and "human-readable". Let's move to a 
+different folder and try it again. 
+
+Changing directories is done with the command `cd` followed by the desired destination.
+
+## 
+
