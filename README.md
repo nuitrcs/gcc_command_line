@@ -4,7 +4,7 @@ Working from the command line gives computational biologists access to many anal
 tools and enables the creation of reproducible scripts. This workshop will introduce 
 commands for filesystem navigation, teach attendees how to create and edit scripts from 
 the terminal with the text editor nano, and introduce utilities for interacting with our 
-high-performance computer cluster, Quest.   <https://quarto.org>.
+high-performance computer cluster, Quest.
 
 ## A note on different shell interpreters
 
@@ -57,6 +57,25 @@ clear but they stand for "all", "long form" and "human-readable". Let's move to 
 different folder and try it again. 
 
 Changing directories is done with the command `cd` followed by the desired destination.
+Use the following command to move into the folder for this workshop series.
 
-## 
+```bash
+cd /projects/e32680
+```
+
+Now, repeat the list command with and without the arguments introduced above.
+What's the difference?
+
+mkdir
+
+touch
+
+cp
+rm
+mv
+
+
+## Creating and editing scripts
+
+## Quest utilities
 
