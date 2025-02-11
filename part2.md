@@ -72,14 +72,13 @@ provide a brief list here, but you can learn a lot more from [our documentation 
 - `seff` shows the efficiency of a completed job
 
 ```bash
+# Some examples
 sbatch example_script.sh # launches the example script you edited
 sacct -X # shows your jobs from today, the -X is better formatting
 squeue -p long # shows all jobs in the long queue
 squeue -u hsc945 # shows all running and pending jobs for user hsc945
+seff 4640099 # shows efficiency of job number 4640099
 ```
-
-
-
 
 ### Storage
 
