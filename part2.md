@@ -46,11 +46,16 @@ the command `mv`. Note that `mv` will remove the original file. It is always saf
 copy and then remove a file manually than it is to move it in one step, but this is 
 usually only a concern with larger files that might take a bit of time to copy. 
 
-**Copy a file located at /projects/e32600/haley/example_script.sh to your folder.**
+1. Copy a file located at /projects/e32600/haley/example_script.sh to your folder.
 
-**_NOTE:_**  You can use `.` as a shorthand for your current directory.
+> **_NOTE:_**  You can use `.` as a shorthand for your current directory.
 
-**Now open this file and edit 
+2. Now open this file and fill out the following.
+	- account=e32600
+	- partition=short
+	- time=00:10:00
+	- ntasks=1
+	
 
 
 ## Quest utilities
