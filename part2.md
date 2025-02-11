@@ -21,7 +21,26 @@ look.
 
 ## Editing a file
 
-## File permissions
+There are a few different command line text editors but we are going to use nano because 
+it is the easiest to learn and sufficient for most uses. If you are going to work heavily 
+from the command line, I would recommend learning vi or vim because it has a lot more 
+functionality, however it has a steeper learning curve.
+
+The command to launch nano is `nano` followed by the file you'd like to edit.
+**Open the commands.txt file.**
+
+This brings up the nano text editor, which has some instructions on the bottom for how to 
+save files, exit the editor, and see the current position in the file, etc. You will not 
+be able to navigate with a mouse/trackpad within the editor. Instead you must use the 
+arrow keys to move the cursor. Nano also does not wrap text, meaning that if there is no 
+new line character a block of text will display as one line. 
+
+**Take some time to write down the commands we've learned so far in your commands.txt file.**
+Then save the file with Ctrl+o and exit with Ctrl+x.
+
+## Copying / moving / renaming files
+
+
 
 
 ## Quest utilities
