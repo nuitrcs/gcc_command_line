@@ -14,7 +14,8 @@ touch commands.txt
 You can print the contents of a file to your terminal with `cat` followed by the file. 
 This is most helpful for small human readable files. If your file is large, you can print
 only the top few lines with `head` or the bottom few lines with `tail` both of which take 
-the filename as an argument. If you would like to see 
+the filename as an argument. If you would like to scroll through a file you can open it 
+with `less` and use the arrow keys to scroll. *You will have to type `q` to exit.*
 
 Our commands.txt file is currently empty so let's put something in it before we take a 
 look.
@@ -55,4 +56,10 @@ usually only a concern with larger files that might take a bit of time to copy.
 	- partition=short
 	- time=00:10:00
 	- ntasks=1
-	
+
+Now that we have some files with content, let's practice the commands introduced for 
+reading files. 
+
+What is the difference between `head example_script.sh` and `head -n 20 example_script.sh`?
+
+If I want to scroll through the contents of my commands notes, should I use `less` or `tail`?
