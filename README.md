@@ -25,8 +25,8 @@ ssh hsc945@quest.northwestern.edu
 # ssh followed by your username (netid for Quest) @ the host address
 ```
 
-This will prompt you for a password, which is your netID password for Quest. It won't 
-look like you are typing, but type it in an hit enter.
+This will prompt you for a password, which for Quest is your netID password. It won't 
+look like you are typing, but type it in and hit enter.
 
 ## Filesystem navigation
 
@@ -53,11 +53,11 @@ ls -alh
 ```
 
 If your home folder is relatively empty, the effect of these arguments may not be 
-clear but they stand for "all", "long form" and "human-readable". Let's move to a 
+clear but they stand for "all", "long-form" and "human-readable". Let's move to a 
 different folder and try it again. 
 
 Changing directories is done with the command `cd` followed by the desired destination.
-Use the following command to move into the folder for this workshop series.
+1.  Use the following command to move into the folder for this workshop series.
 
 ```bash
 cd /projects/e32680
@@ -66,7 +66,14 @@ cd /projects/e32680
 Now, repeat the list command with and without the arguments introduced above.
 What's the difference?
 
-mkdir
+For this workshop series, you will want your own folder to save things into. You can 
+make a new directory with the command `mkdir` followed by the name you'd like to give
+the folder. Make a new directory with your name or another unique identifier as follows:
+
+```bash
+mkdir folder_name
+```
+Now list the contents of the workshop folder again to see your new folder.
 
 touch
 
