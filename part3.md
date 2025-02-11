@@ -1,6 +1,6 @@
-## Quest utilities
+# Quest utilities
 
-### Scheduling jobs
+## Scheduling jobs
 
 The file you just edited is a batch job script. This script will reserve resources on the 
 cluster through our scheduler SLURM (that what all those SBATCH parameters are for) and 
@@ -22,6 +22,6 @@ squeue -u hsc945 # shows all running and pending jobs for user hsc945
 seff 4640099 # shows efficiency of job number 4640099
 ```
 
-### Storage
+## Storage
 
 Other helpful Quest utilities are about checking your storage usage. 
