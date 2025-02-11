@@ -48,7 +48,7 @@ usually only a concern with larger files that might take a bit of time to copy.
 
 **Copy a file located at /projects/e32600/haley/example_script.sh to your folder.**
 
-> **_NOTE:_**  You can use `.` as a shorthand for your current directory.
+**_NOTE:_**  You can use `.` as a shorthand for your current directory.
 
 **Now open this file and edit 
 
