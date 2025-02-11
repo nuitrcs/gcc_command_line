@@ -40,7 +40,17 @@ Then save the file with Ctrl+o and exit with Ctrl+x.
 
 ## Copying / moving / renaming files
 
+You can copy a file with the command `cp` followed by the file you want to copy and then 
+where you want to copy it so. You can move or rename a file using the same syntax with 
+the command `mv`. Note that `mv` will remove the original file. It is always safer to 
+copy and then remove a file manually than it is to move it in one step, but this is 
+usually only a concern with larger files that might take a bit of time to copy. 
 
+**Copy a file located at /projects/e32600/haley/example_script.sh to your folder.**
+
+> **_NOTE:_**  You can use `.` as a shorthand for your current directory.
+
+**Now open this file and edit 
 
 
 ## Quest utilities
