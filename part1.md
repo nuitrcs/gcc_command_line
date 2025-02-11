@@ -1,4 +1,4 @@
-### Filesystem navigation
+# Filesystem navigation
 
 Because you're working with only commands and no graphical user interface, it can take 
 some getting used to moving around and accessing your files. A Linux filesystem starts 
