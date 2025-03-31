@@ -21,11 +21,11 @@ You can use the command `ssh` to log onto a remote host, such as Northwestern's 
 performance computer cluster, Quest.
 
 ```bash
-ssh hsc945@quest.northwestern.edu
+ssh hsc945@login.quest.northwestern.edu
 # ssh followed by your username (netid for Quest) @ the host address
 ```
 
 This will prompt you for a password, which for Quest is your netID password. It won't 
 look like you are typing, but type it in and hit enter.
 
-Now that we're all in on Quest, you can move to part 1. 
+Now that we're all on Quest, you can move to part 1. 
