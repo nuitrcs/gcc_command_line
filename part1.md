@@ -38,7 +38,7 @@ Changing directories is done with the command `cd` followed by the desired desti
 cd /projects/e32680
 ```
 
-4. **repeat the list command** with and without the arguments introduced above.
+4. **Repeat the list command** with and without the arguments introduced above.
 What's the difference?
 
 For this workshop series, you will want your own folder to save things into. You can 
@@ -50,7 +50,7 @@ the folder.
 ```bash
 mkdir folder_name
 ```
-6. **list the contents** of the workshop folder again. Do you see your new folder?
+6. **List the contents** of the workshop folder again. Do you see your new folder?
 
 7. **Move into this folder** with the `cd` command. Use `pwd` to make sure you're there.
 
@@ -83,7 +83,7 @@ absolute path?
 cd /projects/e32600
 ```
 
-If I used the following to move into my own named folder within our workshop folder, would 
+**Question:** If I used the following to move into my own named folder within our workshop folder, would 
 that be an absolute or relative path?
 
 ```bash
