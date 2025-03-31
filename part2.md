@@ -70,7 +70,7 @@ sbatch example_script.sh
 
 **1. List** the contents of your folder after running the script.
 
-**Question:** What are the top lines of course_members.txt? What are other ways to look at this content?
+> **_Question:_** What are the top lines of course_members.txt? What are other ways to look at this content?
 
 **2. Copy** /projects/e32680/01_commandline/questions.txt to your folder.
 
