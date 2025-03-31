@@ -50,15 +50,31 @@ the command `mv`. Note that `mv` will remove the original file. It is always saf
 copy and then remove a file manually than it is to move it in one step, but this is 
 usually only a concern with larger files that might take a bit of time to copy. 
 
-**1. Copy a file** located at /projects/e32600/haley/example_script.sh to your folder.
+**1. Copy a file** located at /projects/e32680/01_commandline/example_script.sh to your folder.
 
 > **_NOTE:_**  You can use `.` as a shorthand for your current directory.
 
 **2. Now open this file** and fill out the following.
-	- account=e32600
-	- partition=short
-	- time=00:10:00
-	- ntasks=1
+	
+- account=e32680
+
+- partition=short
+
+- time=00:10:00
+
+**3. Launch this jobscript** with
+
+sbatch example_script.sh
+
+## Practice
+
+**1. List** the contents of your folder after running the script.
+
+**Question:** What are the top lines of course_members.txt? What are other ways to look at this content?
+
+**2. Copy** /projects/e32680/01_commandline/questions.txt to your folder.
+
+**3. Open and fill out** the questions.txt document with `nano`.
 
 **Question:** What is the difference between `head example_script.sh` and `head -n 20 example_script.sh`?
 
