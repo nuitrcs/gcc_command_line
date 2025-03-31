@@ -3,8 +3,10 @@
 You can create an empty file with the command `touch`.
 
 **Let's try it out!**
+
 **1.** Make sure you're in your folder without our workshop folder.
-**2.** Create a file called `commands.txt` with:
+
+**2. Create a file** called `commands.txt` with:
 
 ```bash
 touch commands.txt
@@ -29,7 +31,7 @@ functionality, however it has a steeper learning curve.
 
 The command to launch nano is `nano` followed by the file you'd like to edit.
 
-1. **Open the commands.txt file.**
+**1. Open the commands.txt file.**
 
 This brings up the nano text editor, which has some instructions on the bottom for how to 
 save files, exit the editor, and see the current position in the file, etc. You will not 
@@ -37,7 +39,7 @@ be able to navigate with a mouse/trackpad within the editor. Instead you must us
 arrow keys to move the cursor. Nano also does not wrap text, meaning that if there is no 
 new line character a block of text will display as one line. 
 
-2. **Take some time to write down the commands we've learned so far in your commands.txt file.**
+**2. Take some time to write down the commands we've learned so far in your commands.txt file.**
 Then save the file with Ctrl+o and exit with Ctrl+x.
 
 ## Copying / moving / renaming files
@@ -48,11 +50,11 @@ the command `mv`. Note that `mv` will remove the original file. It is always saf
 copy and then remove a file manually than it is to move it in one step, but this is 
 usually only a concern with larger files that might take a bit of time to copy. 
 
-**1.** Copy a file located at /projects/e32600/haley/example_script.sh to your folder.
+**1. Copy a file** located at /projects/e32600/haley/example_script.sh to your folder.
 
 > **_NOTE:_**  You can use `.` as a shorthand for your current directory.
 
-**2.** Now open this file and fill out the following.
+**2. Now open this file** and fill out the following.
 	- account=e32600
 	- partition=short
 	- time=00:10:00
