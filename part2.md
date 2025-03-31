@@ -82,12 +82,14 @@ sbatch example_script.sh
 
 **5. Launch** the whoami.sh jobscript.
 
-**6. Copy** /projects/e32680/01_commandline/questions.txt to your folder.
+**6. Move** to my folder /projects/e32680/haley and create a file with your name and a note for me inside. 
 
-**7. Open and fill out** the questions.txt document with `nano`.
+**7. Copy** /projects/e32680/01_commandline/questions.txt to your folder.
 
-**8.** What is the difference between `head example_script.sh` and `head -n 20 example_script.sh`?
+**8. Open and fill out** the questions.txt document with `nano`.
 
-**9.** If I want to scroll through the contents of my commands notes, should I use `less` or `tail`?
+**9.** What is the difference between `head example_script.sh` and `head -n 20 example_script.sh`?
 
-**10.** How would you copy your folder here to your home directory?
+**10.** If I want to scroll through the contents of my commands notes, should I use `less` or `tail`?
+
+**11.** How would you copy your folder here to your home directory?
