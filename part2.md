@@ -60,7 +60,7 @@ usually only a concern with larger files that might take a bit of time to copy.
 
 - partition=short
 
-- time=00:10:00
+- time=01:00:00
 
 **3. Launch this jobscript** with
 
@@ -70,12 +70,20 @@ sbatch example_script.sh
 
 **1. List** the contents of your folder after running the script.
 
-> **_Question:_** What are the top lines of course_members.txt? What are other ways to look at this content?
+**2.** What are the top lines of course_members.txt? What are other ways to look at this content?
 
-**2. Copy** /projects/e32680/01_commandline/questions.txt to your folder.
+**3. Copy** your example_script.sh to a new file called whoami.sh.
 
-**3. Open and fill out** the questions.txt document with `nano`.
+**4. Edit** whoami.sh:
 
-**Question:** What is the difference between `head example_script.sh` and `head -n 20 example_script.sh`?
+- change the time limit from 01:00:00 (one hour) to 00:10:00 (ten minutes)
+- change the lslogins line to read `whoami`
+- change the jobname to whoami
 
-**Question:** If I want to scroll through the contents of my commands notes, should I use `less` or `tail`?
+**5. Copy** /projects/e32680/01_commandline/questions.txt to your folder.
+
+**6. Open and fill out** the questions.txt document with `nano`.
+
+**7.** What is the difference between `head example_script.sh` and `head -n 20 example_script.sh`?
+
+**8:** If I want to scroll through the contents of my commands notes, should I use `less` or `tail`?
