@@ -93,3 +93,5 @@ sbatch example_script.sh
 **10.** If I want to scroll through the contents of my commands notes, should I use `less` or `tail`?
 
 **11.** How would you copy your folder here to your home directory?
+
+**12.** There are **4 secret files** hidden in our classroom allocation with some helpful hints for working from the command line. See if you can find them all!
