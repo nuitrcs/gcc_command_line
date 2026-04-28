@@ -50,13 +50,13 @@ the command `mv`. Note that `mv` will remove the original file. It is always saf
 copy and then remove a file manually than it is to move it in one step, but this is 
 usually only a concern with larger files that might take a bit of time to copy. 
 
-**1. Copy a file** located at /projects/e32680/01_commandline/example_script.sh to your folder.
+**1. Copy a file** located at /projects/e32559/gcc_command_line/example_script.sh to your folder.
 
 > **_NOTE:_**  You can use `.` as a shorthand for your current directory.
 
 **2. Now open this file** and fill out the following.
 	
-- account=e32680
+- account=e32559
 
 - partition=short
 
@@ -82,7 +82,7 @@ sbatch example_script.sh
 
 **5. Launch** the whoami.sh jobscript.
 
-**6. Move** to my folder /projects/e32680/haley and create a file with your name and a note for me inside. 
+**6. Move** to my folder /projects/e32559/haley and create a file with your name and a note for me inside. 
 
 **7. Copy** /projects/e32680/01_commandline/questions.txt to your folder.
 
