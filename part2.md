@@ -84,7 +84,7 @@ sbatch example_script.sh
 
 **6. Move** to my folder /projects/e32559/haley and create a file with your name and a note for me inside. 
 
-**7. Copy** /projects/e32680/01_commandline/questions.txt to your folder.
+**7. Copy** /projects/e32559/gcc_command_line/questions.txt to your folder.
 
 **8. Open and fill out** the questions.txt document with `nano`.
 
@@ -94,4 +94,3 @@ sbatch example_script.sh
 
 **11.** How would you copy your folder here to your home directory?
 
-**12.** There are **4 secret files** hidden in our classroom allocation with some helpful hints for working from the command line. See if you can find them all!
