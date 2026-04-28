@@ -35,7 +35,7 @@ Changing directories is done with the command `cd` followed by the desired desti
 3. **Use the following command to move into the folder for this workshop series.**
 
 ```bash
-cd /projects/e32680
+cd /projects/e32559
 ```
 
 4. **Repeat the list command** with and without the arguments introduced above.
@@ -80,7 +80,7 @@ If we used the following to move back to our workshop folder, would it be a rela
 absolute path?
 
 ```bash
-cd /projects/e32600
+cd /projects/e32559
 ```
 
 **Question:** If I used the following to move into my own named folder within our workshop folder, would 
@@ -93,7 +93,7 @@ cd haley
 The relative path from home to the workshop folder would look like this:
 
 ```bash
-cd ../../projects/e32600
+cd ../../projects/e32559
 ```
 
 The `..` is used to mean up or back one folder. 
