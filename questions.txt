@@ -1,0 +1,13 @@
+How is this workshop going?
+Do you prefer pasta or rice?
+Did you open this with nano or vi?
+How many cats is too many cats?
+What kind of workshop do you wish we had?
+Where would you like to go on vacation?
+How would you copy this document to your home directory?
+Would you like to go to space?
+
+Reminder, if you are using nano, you must navigate
+with the arrow keys, not the mouse/trackpad. You can 
+save with control+O and exit with control+X.
+
